@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "1.9.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "zendlauncher",
+  "version": "0.0.1",
+  "productName": "ZendLauncher",
+  "description": "Launcher officiel pour rejoindre ZendLand",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), Zendrique (https://zendrique.fr)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://zendland.zendrique.fr",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/zendrique/ZendLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/zendrique/ZendLauncher.git"
   }
 }

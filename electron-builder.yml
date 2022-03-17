@@ -1,8 +1,8 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
-artifactName: '${productName}-setup-${version}.${ext}'
+appId: 'zendlauncher'
+productName: 'ZendLauncher'
+artifactName: '${productName}-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2022 Daniel Scalzi'
+copyright: 'Copyright © 2018-2022 Daniel Scalzi, Zendrique'
 
 asar: true
 compression: 'maximum'
@@ -39,10 +39,10 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Daniel Scalzi'
-  vendor: 'Daniel Scalzi'
-  synopsis: 'Modded Minecraft Launcher'
-  description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
+  maintainer: 'Daniel Scalzi, Zendrique'
+  vendor: 'Zendrique'
+  synopsis: 'Launcher officiel de ZendLand'
+  description: 'Le ZendLauncher permet une expérience de jeu optimal sur le serveur ZendLand.'
   category: 'Game'
 
 

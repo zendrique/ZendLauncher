@@ -184,7 +184,7 @@ class Util {
             return false
 
         } catch(err) {
-            throw new Error('Forge version is complex (changed).. launcher requires a patch.')
+            throw new Error('La version de Forge est complexe (modifiée)... Le ZendLauncher nécessite une mise à jour.')
         }
     }
 
@@ -1162,7 +1162,7 @@ class AssetGuard extends EventEmitter {
                     }
                 }
                 //We didn't find forge's version.json.
-                reject('Unable to finalize Forge processing, version.json not found! Has forge changed their format?')
+                reject('Impossible de finaliser le traitement Forge, le fichier version.json introuvable ! Forge a changé son format ?')
             })
         })
     }
@@ -1509,7 +1509,7 @@ class AssetGuard extends EventEmitter {
                                 return
                             }
                         }
-                        reject('No forge version manifest found!')
+                        reject('Aucun manifeste de version de forge trouvé !')
                         return
                     } else {
                         let obArtifact = ob.getArtifact()
@@ -1525,7 +1525,7 @@ class AssetGuard extends EventEmitter {
                     }
                 }
             }
-            reject('No forge module found!')
+            reject('Aucun module de forge trouvé !')
         })
     }
 
