@@ -3,11 +3,10 @@
 <h1 align="center">ZendLauncher</h1>
 
 
-[<p align="center"><img src="https://img.shields.io/github/workflow/status/dscalzi/HeliosLauncher/Build.svg?style=for-the-badge" alt="gh actions">](https://github.com/zendrique/ZendLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/zendrique/ZendLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
-
+[<p align="center"><img src="https://img.shields.io/github/workflow/status/dscalzi/HeliosLauncher/Build.svg?style=for-the-badge" alt="gh actions">](https://github.com/zendrique/ZendLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/zendrique/ZendLauncher/releases)
 ## Téléchargements
 
-Vous pouvez télécharger depuis [le site de zendland](https://zendland.zendrique.fr/)
+Vous pouvez télécharger depuis [le site de zendland.](https://zendland.zendrique.fr/)
 
 #### Dernière version
 
@@ -16,7 +15,7 @@ Vous pouvez télécharger depuis [le site de zendland](https://zendland.zendriqu
 #### Dernière version préliminaire
 [![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://github.com/zendrique/ZendLauncher/releases)
 
-**Supported Platforms**
+**Plates-formes prises en charge**
 
 Si vous téléchargez à partir des [version](https://github.com/zendrique/ZendLauncher/releases), sélectionnez le programme d'installation de votre système.
 
